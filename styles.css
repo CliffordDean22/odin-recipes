@@ -1,0 +1,18 @@
+body {
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkred;
+}
+
+h1 {
+    color: chocolate;
+}
+
+a ,ul ,ol{
+    color: darksalmon;
+    text-decoration: none;
+}
+
+a:hover {
+    color: deeppink;
+}
